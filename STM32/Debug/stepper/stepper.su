@@ -1,0 +1,2 @@
+../stepper/stepper.c:34:6:init_stepper	16	static
+../stepper/stepper.c:57:6:stop_stepper	8	static
